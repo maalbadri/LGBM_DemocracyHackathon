@@ -1,0 +1,8 @@
+company,client,type,method,from,to,sample_size,dup,ulster_unionist_party,traditional_unionist_voice,progressive_unionist_party,sinn_fein,sdlp,alliance,grn,ukip,con,people_before_profit_alliance,other,pdf
+LucidTalk,Sun,Assembly,,2016-05-02,2016-05-02,,0.27,0.15,0.04,,0.26,0.12,0.08,0.03,,,,,
+LucidTalk,Sun,Assembly,Online,2017-01-27,2017-01-29,1580.0,0.259,0.139,0.043,0.008,0.251,0.124,0.08900000000000001,0.039,0.012,0.004,0.027000000000000003,0.008,https://lucidtalk.co.uk/images/News/LTJan17TrackerPollResults-GeneralReport.pdf
+LucidTalk,,Assembly,Online,2017-02-24,2017-02-26,1580.0,0.263,0.139,0.044000000000000004,0.006999999999999999,0.253,0.122,0.094,0.034,0.01,0.003,0.024,0.006999999999999999,https://lucidtalk.co.uk/images/News/LTFeb17TrackerPollResults-GeneralReport.pdf
+ORB Online,Telegraph,Westminster,Online,2017-04-26,2017-04-27,42.0,0.45,0.07,,,0.15,0.02,0.08,,0.0,0.06,,0.16,https://www.orb-international.com/perch/resources/orb-results-26th-27th-april-sunday.pdf
+LucidTalk,,Westminster,Online,2017-04-27,2017-04-29,2080.0,0.294,0.14800000000000002,0.006,0.003,0.27699999999999997,0.124,0.102,0.018000000000000002,0.001,0.001,0.013999999999999999,0.012,https://lucidtalk.co.uk/images/News/LTApril17TrackerPoll-GeneralReportPublic.pdf
+LucidTalk,,Westminster,Online,2017-05-15,2017-05-17,2080.0,0.28800000000000003,0.157,0.001,,0.27899999999999997,0.13699999999999998,0.098,0.006999999999999999,,0.002,0.009000000000000001,0.022000000000000002,https://lucidtalk.co.uk/images/News/LTMay17TrackerPollResultsPoll2-GeneralReport.pdf
+LucidTalk,,Westminster,Online,2017-06-01,2017-06-03,2080.0,0.289,0.154,0.001,,0.281,0.138,0.099,0.006,,0.002,0.006,0.024,https://lucidtalk.co.uk/images/News/LTJune17TrackerPollResultsPoll3-GeneralReport.pdf

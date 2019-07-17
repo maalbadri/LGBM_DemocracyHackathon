@@ -1,0 +1,40 @@
+company,client,method,from,to,sample_size,con,lab,ld,ukip,grn,bnp,respect,independent,other,pdf
+YouGov,,Online,2017-03-24,2017-03-28,,0.34,0.37,0.14,0.09,0.05,0.0,0.0,,0.0,
+ORB Online,Telegraph,Online,2017-04-26,2017-04-27,194.0,0.43,0.32,0.13,0.08,,,,0.02,0.02,https://www.orb-international.com/perch/resources/orb-results-26th-27th-april-sunday.pdf
+YouGov,Times,Online,2017-04-27,2017-04-28,193.0,0.3,0.45,0.15,0.06,0.03,0.01,0.01,,0.0,http://d25d2506sfb94s.cloudfront.net/cumulus_uploads/document/zebfsayat4/SundayTimesResults_170428_W.pdf
+YouGov,Evening Standard,Online,2017-04-27,2017-05-02,1040.0,0.36,0.41,0.14,0.06,0.03,0.0,0.0,,0.01,https://d25d2506sfb94s.cloudfront.net/cumulus_uploads/document/je6pmvgfki/ESIResults_London_170502_GeneralElection_WestminsterVI_W.pdf
+Panelbase,,Online,2017-04-28,2017-05-02,99.0,0.5,0.31,0.15,0.02,0.02,,,,0.0,http://www.panelbase.com/media/polls/W10470w2TablesForPublication020517.pdf
+YouGov,Times,Online,2017-05-02,2017-05-03,248.0,0.38,0.39,0.15,0.04,0.04,0.0,0.0,,0.0,http://d25d2506sfb94s.cloudfront.net/cumulus_uploads/document/dpzz1r8u3o/TimesResults_170503_VI_Trackers_with_Slogans_W.pdf
+YouGov,Sunday Times,Online,2017-05-04,2017-05-05,197.0,0.44,0.35,0.14,0.04,0.02,0.0,0.01,,0.0,https://d25d2506sfb94s.cloudfront.net/cumulus_uploads/document/mrfbguqp4r/SundayTimesResults_170505_VI_W.pdf
+Survation,Good Morning Britain,Phone,2017-05-05,2017-05-06,101.0,0.34600000000000003,0.514,0.075,0.028999999999999998,0.026000000000000002,,,,0.01,http://survation.com/wp-content/uploads/2017/05/Final-GMB-GE2017-Poll-I-050517TOCH-1c0d0h5.pdf
+Panelbase,,Online,2017-05-05,2017-05-09,97.0,0.48,0.38,0.1,0.03,0.01,,,,0.0,http://www.panelbase.com/media/polls/W10407w3tablesforpublication090517.pdf
+YouGov,Times,Online,2017-05-09,2017-05-10,198.0,0.35,0.46,0.13,0.04,0.0,0.02,0.0,,0.0,http://d25d2506sfb94s.cloudfront.net/cumulus_uploads/document/fko52um47n/TimesResults_170510_VI_Trackers_W.pdf
+ORB Online,Telegraph,Online,2017-05-10,2017-05-11,197.0,0.4,0.41,0.09,0.08,,,,0.0,0.02,http://www.orb-international.com/perch/resources/orb-the-telegraph-10-11-may-.pdf
+YouGov,Times,Online,2017-05-11,2017-05-12,196.0,0.39,0.46,0.1,0.02,0.0,0.03,0.0,,0.0,http://d25d2506sfb94s.cloudfront.net/cumulus_uploads/document/1b8yww4g1l/SundayTimesResults_170512_VI_W.pdf
+Survation,Good Morning Britain,Phone,2017-05-12,2017-05-13,101.0,0.348,0.445,0.107,0.047,0.036000000000000004,,,,0.016,http://survation.com/wp-content/uploads/2017/05/Final-GMB-II-Tables-120517TOCH-1c0d1h6.pdf
+Panelbase,,Online,2017-05-12,2017-05-15,92.0,0.38,0.5,0.09,0.01,0.02,,,,0.0,http://www.panelbase.com/media/polls/W10470w4tablesforpublication150517.pdf
+Ipsos MORI Phone,Evening Standard,Phone,2017-05-15,2017-05-17,102.0,0.39,0.49,0.02,0.08,0.01,,,,0.0,https://www.ipsos.com/sites/default/files/2017-05/pm-may-2017-tables.pdf
+YouGov,Times,Online,2017-05-16,2017-05-17,223.0,0.41,0.38,0.14,0.05,0.0,0.02,0.0,,0.0,http://d25d2506sfb94s.cloudfront.net/cumulus_uploads/document/txtodyx8bk/TimesResults_170517_VI_Trackers_W.pdf
+ORB Online,Telegraph,Online,2017-05-17,2017-05-18,208.0,0.39,0.42,0.08,0.08,,,,0.0,0.03,http://www.orb-international.com/perch/resources/voting-intention-19-05-2017-1.pdf
+YouGov,Times,Online,2017-05-18,2017-05-19,231.0,0.34,0.44,0.12,0.03,0.03,0.0,0.0,,0.03,https://d25d2506sfb94s.cloudfront.net/cumulus_uploads/document/wvyc3lofp5/SundayTimesResults_170519_VI_W.pdf
+Survation,Good Morning Britain,Phone,2017-05-19,2017-05-20,103.0,0.48200000000000004,0.33799999999999997,0.134,0.019,0.022000000000000002,,,,0.026000000000000002,http://survation.com/wp-content/uploads/2017/05/Final-GMB-GE2017-III-Tables-190517TOCH-1c0d3h4.pdf
+Survation,Mail on Sunday,Online,2017-05-19,2017-05-20,101.0,0.39299999999999996,0.466,0.073,0.016,0.032,,,,0.02,http://survation.com/wp-content/uploads/2017/05/Final-MoS-Poll-190517GOCH-1c0d1h7.pdf
+Panelbase,Sunday Times,Online,2017-05-19,2017-05-23,131.0,0.42,0.37,0.11,0.06,0.04,,,,0.0,http://www.panelbase.com/media/polls/W10470w5SundayTimestablesforpublication230517.pdf
+ORB Online,Telegraph,Online,2017-05-24,2017-05-25,198.0,0.32,0.5,0.1,0.05,,,,0.0,0.03,https://www.orb-international.com/perch/resources/orb-telegraph-26th-may.pdf
+YouGov,Times,Online,2017-05-24,2017-05-25,246.0,0.36,0.48,0.12,0.02,0.02,0.0,0.0,,0.0,https://d25d2506sfb94s.cloudfront.net/cumulus_uploads/document/dcfgflapq2/TimesResults_170525_VI_Trackers_Terrorism_W.pdf
+YouGov,Times,Online,2017-05-25,2017-05-26,240.0,0.38,0.44,0.13,0.03,0.0,0.0,0.0,,0.0,http://d25d2506sfb94s.cloudfront.net/cumulus_uploads/document/fpwbs2u7v8/SundayTimesResults_170526_VI_W.pdf
+Survation,Good Morning Britain,Phone,2017-05-26,2017-05-27,98.0,0.284,0.5489999999999999,0.091,0.065,0.0,,,,0.011000000000000001,http://survation.com/wp-content/uploads/2017/05/Final-GMB-GE2017-IV-Tables-260517TOCH-1c0d0h9.pdf
+YouGov,Times,Online,2017-05-30,2017-05-31,225.0,0.38,0.49,0.09,0.03,0.01,0.0,0.0,,0.0,http://d25d2506sfb94s.cloudfront.net/cumulus_uploads/document/imdk9bjaff/TimesResults_170531_VI_Trackers_W.pdf
+YouGov,Queen Mary University of London,Online,2017-05-26,2017-05-31,1000.0,0.33,0.5,0.11,0.03,0.02,0.0,,,0.01,https://d25d2506sfb94s.cloudfront.net/cumulus_uploads/document/6zez44zpnt/QueenMaryResults_London_May31st2017_W.pdf
+Panelbase,,Online,2017-05-26,2017-06-01,92.0,0.51,0.39,0.06,0.03,0.02,,,,0.0,http://www.panelbase.com/media/polls/W10470w6tablesforpublication010617.pdf
+Ipsos MORI Phone,Evening Standard,Phone,2017-05-30,2017-06-01,112.0,0.5,0.38,0.09,0.0,0.02,0.0,,,0.01,https://www.ipsos.com/sites/default/files/2017-06/pm-june-tables.pdf
+ORB Online,Telegraph,Online,2017-05-31,2017-06-01,172.0,0.36,0.48,0.07,0.05,,,,0.0,0.04,https://www.orb-international.com/perch/resources/orbtelegraph-jun-2-1.pdf
+YouGov,Times,Online,2017-06-01,2017-06-02,239.0,0.34,0.48,0.15,0.03,0.01,0.0,,,0.0,https://d25d2506sfb94s.cloudfront.net/cumulus_uploads/document/f3ruqo8k0q/SundayTimesResults_170602_VI_W.pdf
+Survation,Mail on Sunday,Phone,2017-06-03,2017-06-03,111.0,0.379,0.462,0.095,0.027999999999999997,,,,,0.037000000000000005,http://survation.com/wp-content/uploads/2017/06/Final-MoS-Post-BBC-Event-Poll-020617SWCH-1c0d4h9.pdf
+Survation,Good Morning Britain,Phone,2017-06-02,2017-06-03,136.0,0.39299999999999996,0.503,0.066,0.0,0.015,,,,0.023,http://survation.com/wp-content/uploads/2017/06/Final-GMB-GE2017-V-Tables-020617TOCH-1c1d0h3-microage.pdf
+ComRes Online,Independent On Sunday / Sunday Mirror,Online,2017-06-05,2017-06-07,226.0,0.42,0.41,0.11,0.04,0.03,0.0,,,0.0,http://www.comresglobal.com/wp-content/uploads/2017/06/Independent_FINAL-VI-and-Political-Poll_7th-June-2017_130392.pdf
+Panelbase,,Online,2017-06-02,2017-06-07,389.0,0.38,0.44,0.1,0.02,0.04,,,,0.0,http://www.panelbase.com/media/polls/W10470w7tablesforpublication.pdf
+YouGov,Times,Online,2017-06-05,2017-06-07,256.0,0.37,0.41,0.12,0.07,0.03,,,,0.0,https://d25d2506sfb94s.cloudfront.net/cumulus_uploads/document/d8zsb99eyd/TimesResults_FINAL%20CALL_GB_June2017_W.pdf
+Survation,,Online,2017-06-06,2017-06-07,174.0,0.396,0.485,0.081,0.018000000000000002,0.02,,,,0.0,http://survation.com/wp-content/uploads/2017/06/Survation-GE2017-Final-Poll-2d7l9l8.pdf
+BMG,Herald,Online,2017-06-06,2017-06-07,106.0,0.48,0.24,0.15,0.07,0.07,,,,0.0,http://www.bmgresearch.co.uk/wp-content/uploads/2017/06/CONFIDENTIAL-BMG-HERALD-POLL-FINAL-GE2017-070617.xlsx
+Ipsos MORI Phone,Evening Standard,Phone,2017-06-06,2017-06-07,134.0,0.41,0.46,0.1,0.01,0.01,,,,0.0,https://www.ipsos.com/sites/default/files/2017-06/pm-election-2017-final-tables.pdf
