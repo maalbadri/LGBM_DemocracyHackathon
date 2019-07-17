@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/maalbadri/LGBM_DemocracyHackathon/master)
+
 <div>
     <img src="media/newspeak_logo.png" alt="Newspeak House" width="250px" style="float: left;" />
     &nbsp;&nbsp;
