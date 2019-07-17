@@ -6,7 +6,7 @@
 
 # PyData 2019 Democracy Hackathon
 
-Authors: Mohamed Ali al-Badri & Marco Gorelli 
+**Authors: Mohamed Ali al-Badri & Marco Gorelli**
 
 Code and resources for the entry to the [PyData 2019 Democracy Hackathon](https://pydata.org/london2019/schedule/presentation/59/) competition Hosted by Newspeak House Fellow [John Sandall](https://twitter.com/john_sandall) and [Richard Chadwick](https://medium.com/@richchad).
 
