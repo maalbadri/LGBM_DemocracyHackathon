@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/maalbadri/LGBM_DemocracyHackathon/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/maalbadri/LGBM_DemocracyHackathon/master?filepath=LGBM_VoterTurnout_UK2017GE.ipynb)
 
 <div>
     <img src="media/newspeak_logo.png" alt="Newspeak House" width="250px" style="float: right;" />
